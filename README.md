@@ -6,7 +6,7 @@ Previously, I have worked as a Senor Data Scientist and developed internationall
 
 You can find a list of my publications at [Google Scholar](https://scholar.google.no/citations?hl=en&user=dOMFVvwAAAAJ), and [read my resumé at LinkedIn](https://www.linkedin.com/in/multinormal/).
 
-This GitHub account currently has only a few public repositories for some of the projects I have worked on. Some examples are:
+This GitHub account currently has only a few public repositories for some of the projects I have worked on (unfortunately, most of my code cannot be made public for commerical reasons). Some examples are:
 
 * [DDSM (Digital Database for Screening Mammography)](https://github.com/multinormal/ddsm) — Software for obtaining and decoding digital mammograms and annotations of abnormalities from the DDSM's servers at the University of South Florida.
 * An R package for the [analysis of a national survey of Norwegians' understanding of key concepts for making informed health choices](https://github.com/multinormal/fhi.informed-health-choices-norway.2019).
