@@ -4,7 +4,7 @@ I'm a statistician at the Norwegian Institute of Public Health. I have a PhD in 
 
 Previously, I have worked as a Senor Data Scientist and developed internationally-competetive predictive models of the mammalian immune system for use in developing next generation DNA sequencing-based personalized cancer therapies. Before that I developed and applied analysis methods for use in imaging-based clinical trials of novel cancer therapies.
 
-You can find a list of my publications at [Google Scholar](https://scholar.google.no/citations?hl=en&user=dOMFVvwAAAAJ).
+You can find a list of my publications at [Google Scholar](https://scholar.google.no/citations?hl=en&user=dOMFVvwAAAAJ), and [read my resumé at LinkedIn](https://www.linkedin.com/in/multinormal/).
 
 This GitHub account currently has only a few public repositories for some of the projects I have worked on. Some examples are:
 
