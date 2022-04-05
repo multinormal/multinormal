@@ -1,7 +1,11 @@
 ### Hi, I'm Chris 👋
 
-I'm a statistician at the [Norwegian Institute of Public Health (NIPH)](https://www.fhi.no/en/). I have a PhD in statistical modelling, am a chartered statistician (CStat), and have about 20 years of medical research experience. I perform systematic reviews and health technology assessments (HTAs) for the [Norwegian specialist health service](https://nyemetoder.no), am a statistical editor for [Cochrane's Effective Practice and Organization of Care Review Group](https://epoc.cochrane.org), support the design and analysis of [randomized controlled trials (RCTs)](https://en.wikipedia.org/wiki/Randomized_controlled_trial), and provide statistical training within NIPH and Cochrane and to groups and researchers based in Norway, Scandinavia, and globally. My work is a mix of analysis, consulting, and teaching.
+I'm a statistician (PhD, CStat) at the [Norwegian Institute of Public Health (NIPH)](https://www.fhi.no/en/) with over 20 years of medical research experience. I work on:
 
-Previously, I have worked as a Senor Data Scientist and developed internationally-competetive predictive models of the mammalian immune system for use in developing next generation DNA sequencing-based personalized cancer therapies. Before that I was a Research Fellow at the University of Manchester, where I developed and applied analysis methods for use in imaging-based clinical trials of novel cancer therapies.
+* Meta-analyses for Cochrane systematic reviews and health technology assessments (HTAs) for the [Norwegian specialist health service](https://nyemetoder.no).
+* Design and analysis of RCTs.
+* Statistical training at NIPH, in Norway and Sweden, and occasionally elsewhere in the world.
+
+Previosuly I worked in academia and industry, and have collaborated on research projects with companies such as AstraZeneca, GSK, Pfizer, and Genentech, mostly focusing on developing analysis methods for use in imaging-based clinical trials of novel cancer therapies.
 
 You can find a list of my publications at [Google Scholar](https://scholar.google.no/citations?hl=en&user=dOMFVvwAAAAJ), and [read my resumé at LinkedIn](https://www.linkedin.com/in/multinormal/).
