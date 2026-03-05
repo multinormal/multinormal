@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 
-I'm a statistician (PhD, CStat) at the [Norwegian Institute of Public Health (NIPH)](https://www.fhi.no/en/) with over 20 years of medical research experience. I work on:
+I'm a statistician (PhD, CStat) at the [Norwegian Institute of Public Health (NIPH)](https://www.fhi.no/en/) with over 25 years of medical research experience. I work on:
 
 * Design and analysis of RCTs, with a recent focus on [interventions for controlling epidemics](https://www.fhi.no/en/more/research-centres/ceir/).
 * Meta-analysis and health technology assessment (HTA) for the [Norwegian specialist health service](https://nyemetoder.no).
