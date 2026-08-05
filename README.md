@@ -2,8 +2,9 @@
 
 I'm a senior statistician (PhD, CStat) at the [Norwegian Institute of Public Health (NIPH)](https://www.fhi.no/en/) with over 25 years of research experience in medicine and public health. I work on:
 
-* Design and analysis of RCTs, with a focus on [interventions for controlling epidemics](https://www.fhi.no/en/more/research-centres/ceir/).
+* Design and analysis of RCTs, with a focus on interventions for [controlling epidemics]([https://www.fhi.no/en/more/research-centres/ceir/](https://www.fhi.no/en/kn/ceir/aim-2/)) and [improving decision-making during health crises and critical health literacy in the general population](https://www.fhi.no/en/kn/ceir/aim-3/).
 * Meta-analysis and health technology assessment (HTA) for the Norwegian healthcare and welfare services.
+* Evaluating artificial intelligence and machine learning tools for evidence synthesis.
 * Statistical training at NIPH, in Norway and Sweden, and occasionally elsewhere in the world.
 
 Before that:
